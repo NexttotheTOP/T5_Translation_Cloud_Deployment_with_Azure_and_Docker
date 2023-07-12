@@ -1,0 +1,7 @@
+FastAPI  # Package to build our API 
+uvicorn  # Package to run our API 
+pydantic # Package to check if we are getting valid data from clients 
+peewee # Package used to interact with our database 
+transformers # Will run our transformation for us 
+sentencepiece # Used by transformers to tokenize our input 
+torch # Used by transformers to run our underlying DL model 
